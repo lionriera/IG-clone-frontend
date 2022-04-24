@@ -2,7 +2,7 @@
 
 Instagram clone using MERN stack. 
 
-This is the frontend repo built with React. If you are looking for the backend repo, [click here](https://github.com/manikandanraji/instaclone-backend)
+This is the frontend repo built with React. If you are looking for the backend repo, [click here](https://github.com/ricwork/IG-clone-backend)
 
 [Check out the deployed site](https://merninsta.netlify.app)
 
